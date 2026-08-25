@@ -1,0 +1,211 @@
+Category,Word,Hint
+Household Objects,Refrigerator,Perishable|Cold-Zone|Large-Appliance|Kitchen-Unit|Door-Shelves
+Household Objects,Toaster,Countertop|Heat-Element|Breakfast|Timer-Dial|Grid-Powered
+Household Objects,Microwave,Countertop|Heat-Element|Quick-Cook|Digital-Pad|Grid-Powered
+Household Objects,Vacuum Cleaner,Floor-Care|Motorized|Filter-System|Debris-Collector|Handheld-Option
+Household Objects,Coffee Maker,Countertop|Liquid-Process|Morning-Routine|Filter-System|Heat-Element
+Household Objects,Washing Machine,Large-Appliance|Liquid-Process|Utility-Room|Motorized|Cycle-Based
+Household Objects,Ceiling Fan,Airflow|Overhead|Motorized|Bladed|Room-Comfort
+Household Objects,Dishwasher,Large-Appliance|Liquid-Process|Kitchen-Unit|Heat-Element|Racks
+Household Objects,Ironing Board,Collapsible|Fabric-Care|Flat-Surface|Metal-Frame|Utility-Room
+Household Objects,Can Opener,Manual-Option|Kitchen-Tool|Metal-Edge|Pry-Mechanism|Handheld-Option
+Household Objects,Blender,Countertop|Liquid-Process|Motorized|Bladed|High-Speed
+Household Objects,Television,Display-Screen|Living-Room|Media-Hub|Grid-Powered|Wall-Mounted
+Household Objects,Desk Lamp,Task-Lighting|Bulb-Housing|Adjustable-Arm|Workspace|Grid-Powered
+Household Objects,Air Fryer,Countertop|Heat-Element|Quick-Cook|Kitchen-Unit|Grid-Powered
+Household Objects,Hair Dryer,Handheld-Option|Heat-Element|Airflow|Bathroom-Tool|Grid-Powered
+Basketball Players,LeBron James,First-Overall-Pick|High-Usage|Forward-Position|Multi-Team-Champion|Olympic-Gold
+Basketball Players,Michael Jordan,First-Round-Pick|High-Scorer|Guard-Position|Multi-Team-Champion|Olympic-Gold
+Basketball Players,Stephen Curry,First-Round-Pick|Outside-Shooter|Guard-Position|Dynasty-Core|Multi-Time-MVP
+Basketball Players,Kobe Bryant,First-Round-Pick|High-Scorer|Guard-Position|Dynasty-Core|Olympic-Gold
+Basketball Players,Kevin Durant,First-Overall-Pick|Outside-Shooter|Forward-Position|Multi-Team-Champion|Olympic-Gold
+Basketball Players,Shaquille O'Neal,First-Overall-Pick|Interior-Presence|Center-Position|Multi-Team-Champion|Multi-Time-MVP
+Basketball Players,Giannis Antetokounmpo,First-Round-Pick|Interior-Presence|Forward-Position|International-Born|Multi-Time-MVP
+Basketball Players,Luka Doncic,First-Round-Pick|High-Usage|Guard-Position|International-Born|Floor-General
+Basketball Players,Nikola Jokic,Second-Round-Pick|Interior-Presence|Center-Position|International-Born|Multi-Time-MVP
+Basketball Players,Magic Johnson,First-Overall-Pick|Floor-General|Guard-Position|Dynasty-Core|Multi-Time-MVP
+Basketball Players,Larry Bird,First-Round-Pick|Outside-Shooter|Forward-Position|Dynasty-Core|Multi-Time-MVP
+Basketball Players,Allen Iverson,First-Overall-Pick|High-Scorer|Guard-Position|Floor-General|Speed-Focused
+Basketball Players,Kyrie Irving,First-Overall-Pick|High-Scorer|Guard-Position|Outside-Shooter|Olympic-Gold
+Basketball Players,James Harden,First-Round-Pick|High-Usage|Guard-Position|Outside-Shooter|Multi-Time-MVP
+Basketball Players,Tim Duncan,First-Overall-Pick|Interior-Presence|Forward-Position|Dynasty-Core|Multi-Time-MVP
+Food,Pepperoni Pizza,Baked-Goods|Meat-Component|Dairy-Component|Handheld-Eat|Italian-Origin
+Food,Cheeseburger,Meat-Component|Dairy-Component|Handheld-Eat|Griddle-Cooked|American-Classic
+Food,Spaghetti and Meatballs,Meat-Component|Sauce-Heavy|Plated-Meal|Noodle-Based|Italian-Origin
+Food,Sushi Roll,Seafood-Based|Rice-Component|Cold-Served|Bite-Sized|Japanese-Origin
+Food,Chicken Nuggets,Meat-Component|Deep-Fried|Handheld-Eat|Bite-Sized|Fast-Food
+Food,Beef Tacos,Meat-Component|Handheld-Eat|Folded-Wrap|Spicy-Seasoning|Mexican-Origin
+Food,French Fries,Deep-Fried|Handheld-Eat|Side-Dish|Potato-Based|Fast-Food
+Food,Pancakes,Baked-Goods|Sweet-Profile|Griddle-Cooked|Morning-Meal|Batter-Based
+Food,Fried Chicken,Meat-Component|Deep-Fried|Handheld-Eat|Batter-Based|American-Classic
+Food,Stir-fried Noodles,Sauce-Heavy|Plated-Meal|Noodle-Based|Hot-Wok|Asian-Origin
+Food,Fish and Chips,Seafood-Based|Deep-Fried|Side-Dish|Batter-Based|European-Origin
+Food,Burrito,Meat-Component|Handheld-Eat|Folded-Wrap|Rice-Component|Mexican-Origin
+Food,Caesar Salad,Dairy-Component|Cold-Served|Plated-Meal|Green-Base|Raw-Ingredients
+Food,Ice Cream Sundae,Sweet-Profile|Dairy-Component|Cold-Served|Dessert-Course|Sauce-Heavy
+Food,Chocolate Brownie,Baked-Goods|Sweet-Profile|Handheld-Eat|Dessert-Course|Rich-Flavor
+Video Games,Minecraft,Open-World|Crafting-Focus|Survival-Mode|Multiplayer|Creative-Sandbox
+Video Games,Grand Theft Auto,Open-World|Vehicle-Focus|Action-Adventure|Multiplayer|Urban-Setting
+Video Games,Fortnite,Online-Focused|Competitive|Third-Person|Multiplayer|Shooter-Mechanics
+Video Games,Elden Ring,Open-World|Action-Adventure|Fantasy-Setting|Challenging|Melee-Combat
+Video Games,Super Mario Bros,Side-Scroller|Platformer|Retro-Era|Console-Classic|Family-Friendly
+Video Games,Call of Duty,Online-Focused|Competitive|First-Person|Multiplayer|Shooter-Mechanics
+Video Games,The Legend of Zelda,Open-World|Action-Adventure|Fantasy-Setting|Console-Classic|Melee-Combat
+Video Games,Pokémon,Handheld-Origin|Turn-Based|Monster-Focus|Console-Classic|RPG-Elements
+Video Games,Tetris,Retro-Era|Puzzle-Logic|Grid-Based|Score-Attack|Arcade-Origin
+Video Games,Roblox,Online-Focused|Crafting-Focus|Multiplayer|Creative-Sandbox|User-Generated
+Video Games,Pac-Man,Retro-Era|Grid-Based|Score-Attack|Arcade-Origin|Maze-Runner
+Video Games,Among Us,Online-Focused|Multiplayer|Social-Deduction|Casual-Play|Space-Theme
+Video Games,Marvel Rivals,Online-Focused|Competitive|Third-Person|Multiplayer|Shooter-Mechanics
+Video Games,Hypixel Skyblock,Online-Focused|Crafting-Focus|Multiplayer|RPG-Elements|Economy-System
+Video Games,Sonic the Hedgehog,Side-Scroller|Platformer|Retro-Era|Console-Classic|High-Speed
+Marvel Characters,Spider-Man,Masked-Hero|Agile-Fighter|Urban-Based|Avenger-Member|Science-Background
+Marvel Characters,Iron Man,Armored|Tech-Genius|Avenger-Member|Flyer|Science-Background
+Marvel Characters,Captain America,Masked-Hero|Avenger-Member|Enhanced-Human|Military-Past|Leader-Type
+Marvel Characters,Thor,Avenger-Member|Godlike-Entity|Flyer|Weapon-Wielder|Royalty
+Marvel Characters,Hulk,Avenger-Member|Enhanced-Human|Brute-Force|Science-Background|Transformation
+Marvel Characters,Black Panther,Armored|Agile-Fighter|Avenger-Member|Royalty|Science-Background
+Marvel Characters,Wolverine,Enhanced-Human|Brute-Force|Weapon-Wielder|Regeneration|X-Men-Member
+Marvel Characters,Deadpool,Masked-Hero|Enhanced-Human|Weapon-Wielder|Regeneration|Anti-Hero
+Marvel Characters,Doctor Strange,Avenger-Member|Magic-User|Flyer|Mystic-Arts|Science-Background
+Marvel Characters,Scarlet Witch,Avenger-Member|Magic-User|Flyer|Mystic-Arts|Transformation
+Marvel Characters,Black Widow,Agile-Fighter|Avenger-Member|Military-Past|Non-Powered|Spy-History
+Marvel Characters,Loki,Godlike-Entity|Magic-User|Royalty|Transformation|Anti-Hero
+Marvel Characters,Thanos,Godlike-Entity|Brute-Force|Cosmic-Scale|Leader-Type|Alien-Origin
+Marvel Characters,Venom,Agile-Fighter|Brute-Force|Regeneration|Transformation|Anti-Hero
+Marvel Characters,Magneto,Godlike-Entity|Leader-Type|X-Men-Member|Anti-Hero|Metal-Control
+Animals,Lion,Land-Mammal|Carnivore|Apex-Predator|Group-Living|Savannah-Habitat
+Animals,Elephant,Land-Mammal|Herbivore|Large-Size|Group-Living|African-Native
+Animals,Dolphin,Aquatic-Animal|Carnivore|Apex-Predator|Group-Living|Ocean-Dweller
+Animals,Grizzly Bear,Land-Mammal|Apex-Predator|Fur-Covered|Solitary-Hunter|Forest-Habitat
+Animals,Kangaroo,Land-Mammal|Herbivore|Marsupial|Group-Living|Australian-Native
+Animals,Giraffe,Land-Mammal|Herbivore|Large-Size|Group-Living|Savannah-Habitat
+Animals,Penguin,Aquatic-Animal|Feathered|Group-Living|Flightless-Bird|Polar-Region
+Animals,Great White Shark,Aquatic-Animal|Carnivore|Apex-Predator|Solitary-Hunter|Ocean-Dweller
+Animals,Gorilla,Land-Mammal|Herbivore|Group-Living|Primate-Family|Forest-Habitat
+Animals,Bald Eagle,Apex-Predator|Feathered|Solitary-Hunter|Flying-Raptor|North-American
+Animals,Tiger,Land-Mammal|Carnivore|Apex-Predator|Solitary-Hunter|Forest-Habitat
+Animals,Wolf,Land-Mammal|Carnivore|Apex-Predator|Group-Living|Forest-Habitat
+Animals,Panda,Land-Mammal|Herbivore|Fur-Covered|Solitary-Hunter|Asian-Native
+Animals,Fox,Land-Mammal|Carnivore|Fur-Covered|Solitary-Hunter|Forest-Habitat
+Animals,Koala,Land-Mammal|Herbivore|Marsupial|Tree-Dweller|Australian-Native
+Countries,United States,Large-Landmass|English-Speaking|Federal-Republic|Global-Economy|Coastal-Nation
+Countries,United Kingdom,Island-Nation|English-Speaking|Monarchy-System|European-Region|Coastal-Nation
+Countries,Canada,Large-Landmass|Cold-Climate|Federal-Republic|Commonwealth-Realm|Coastal-Nation
+Countries,Australia,Large-Landmass|Island-Nation|English-Speaking|Commonwealth-Realm|Coastal-Nation
+Countries,Japan,Island-Nation|Asian-Region|High-Tech|Constitutional-Monarchy|Coastal-Nation
+Countries,France,European-Region|Global-Economy|Republic-System|Cultural-Hub|Coastal-Nation
+Countries,Germany,European-Region|Global-Economy|Federal-Republic|Industrial-Hub|Landlocked-Central
+Countries,Italy,European-Region|Republic-System|Cultural-Hub|Peninsula-Nation|Mediterranean
+Countries,Brazil,Large-Landmass|Tropical-Climate|Republic-System|South-American|Coastal-Nation
+Countries,Mexico,Tropical-Climate|Federal-Republic|Spanish-Speaking|North-American|Coastal-Nation
+Countries,China,Large-Landmass|Asian-Region|High-Population|East-Asian|Coastal-Nation
+Countries,India,Large-Landmass|Asian-Region|High-Population|South-Asian|Coastal-Nation
+Countries,Spain,European-Region|Spanish-Speaking|Constitutional-Monarchy|Peninsula-Nation|Mediterranean
+Countries,Egypt,Desert-Climate|African-Nation|Historical-Center|Middle-Eastern|Coastal-Nation
+Countries,New Zealand,Island-Nation|English-Speaking|Commonwealth-Realm|Pacific-Region|Coastal-Nation
+School Subjects,Mathematics,STEM-Field|Problem-Solving|Formula-Based|Logic-Driven|Core-Curriculum
+School Subjects,English Literature,Humanities|Text-Analysis|Essay-Writing|Reading-Heavy|Core-Curriculum
+School Subjects,Chemistry,STEM-Field|Lab-Work|Formula-Based|Scientific-Method|Physical-Science
+School Subjects,World History,Humanities|Text-Analysis|Historical-Focus|Social-Science|Core-Curriculum
+School Subjects,Physical Education,Non-Academic|Activity-Based|Health-Focus|Practical-Class|Core-Curriculum
+School Subjects,Biology,STEM-Field|Lab-Work|Scientific-Method|Life-Science|Core-Curriculum
+School Subjects,Art and Design,Non-Academic|Creative-Focus|Practical-Class|Visual-Medium|Elective-Course
+School Subjects,Geography,Humanities|Social-Science|Earth-Focus|Map-Reading|Core-Curriculum
+School Subjects,Music,Non-Academic|Creative-Focus|Practical-Class|Performance-Based|Elective-Course
+School Subjects,Physics,STEM-Field|Lab-Work|Formula-Based|Scientific-Method|Physical-Science
+School Subjects,Drama,Non-Academic|Creative-Focus|Practical-Class|Performance-Based|Elective-Course
+School Subjects,Computer Science,STEM-Field|Problem-Solving|Formula-Based|Logic-Driven|Elective-Course
+School Subjects,Economics,Humanities|Problem-Solving|Logic-Driven|Social-Science|Elective-Course
+School Subjects,Psychology,Humanities|Scientific-Method|Social-Science|Human-Behavior|Elective-Course
+School Subjects,Foreign Languages,Humanities|Text-Analysis|Reading-Heavy|Performance-Based|Elective-Course
+Brands,Apple,Tech-Hardware|Consumer-Electronics|Global-Reach|Premium-Tier|US-Founded
+Brands,Nike,Apparel-Focus|Sports-Sponsorship|Global-Reach|Footwear-Giant|US-Founded
+Brands,McDonald's,Fast-Food|Franchise-Model|Global-Reach|Value-Tier|US-Founded
+Brands,Coca-Cola,Beverage-Giant|Global-Reach|Value-Tier|Iconic-Branding|US-Founded
+Brands,Samsung,Tech-Hardware|Consumer-Electronics|Global-Reach|Conglomerate|Asian-Founded
+Brands,Google,Software-Giant|Digital-Services|Global-Reach|Search-Platform|US-Founded
+Brands,Amazon,Digital-Services|Global-Reach|E-Commerce|Logistics-Giant|US-Founded
+Brands,Microsoft,Tech-Hardware|Software-Giant|Digital-Services|Global-Reach|US-Founded
+Brands,Adidas,Apparel-Focus|Sports-Sponsorship|Global-Reach|Footwear-Giant|European-Founded
+Brands,Disney,Entertainment-Media|Global-Reach|Theme-Parks|Family-Focused|US-Founded
+Brands,Sony,Tech-Hardware|Consumer-Electronics|Entertainment-Media|Global-Reach|Asian-Founded
+Brands,Nintendo,Tech-Hardware|Entertainment-Media|Global-Reach|Family-Focused|Asian-Founded
+Brands,Netflix,Digital-Services|Entertainment-Media|Global-Reach|Subscription-Based|US-Founded
+Brands,Toyota,Global-Reach|Automotive-Giant|Manufacturing|Engine-Tech|Asian-Founded
+Brands,Lego,Global-Reach|Toy-Maker|Family-Focused|Plastic-Based|European-Founded
+Sports,Basketball,Team-Sport|Ball-Game|Indoor-Court|Timed-Match|High-Scoring
+Sports,Soccer,Team-Sport|Ball-Game|Outdoor-Field|Timed-Match|Global-Focus
+Sports,Tennis,Individual-Sport|Ball-Game|Racket-Used|Net-Divider|Set-Based
+Sports,Baseball,Team-Sport|Ball-Game|Outdoor-Field|Bat-and-Ball|Inning-Based
+Sports,Cricket,Team-Sport|Ball-Game|Outdoor-Field|Bat-and-Ball|Global-Focus
+Sports,Rugby,Team-Sport|Ball-Game|Outdoor-Field|Contact-Sport|Timed-Match
+Sports,Volleyball,Team-Sport|Ball-Game|Net-Divider|Set-Based|Hands-Only
+Sports,Golf,Individual-Sport|Ball-Game|Outdoor-Field|Precision-Focus|Course-Based
+Sports,Swimming,Individual-Sport|Timed-Match|Water-Based|Olympic-Core|Physical-Endurance
+Sports,Boxing,Individual-Sport|Contact-Sport|Timed-Match|Combat-Sport|Weight-Classes
+Sports,Formula One,Individual-Sport|Timed-Match|Vehicle-Based|High-Speed|Global-Focus
+Sports,Hockey,Team-Sport|Outdoor-Field|Contact-Sport|Timed-Match|Equipment-Heavy
+Sports,Badminton,Individual-Sport|Racket-Used|Indoor-Court|Net-Divider|Set-Based
+Sports,Table Tennis,Individual-Sport|Ball-Game|Racket-Used|Net-Divider|Set-Based
+Sports,Athletics,Individual-Sport|Timed-Match|Olympic-Core|Physical-Endurance|Track-Event
+Movies,The Shawshank Redemption,Award-Winner|Dramatic-Theme|Historical-Setting|Acclaimed-Classic|Nineties-Release
+Movies,The Dark Knight,Award-Winner|Action-Packed|Blockbuster|Comic-Adaptation|2000s-Release
+Movies,Avengers Endgame,Action-Packed|Blockbuster|Comic-Adaptation|Ensemble-Cast|2010s-Release
+Movies,Titanic,Award-Winner|Dramatic-Theme|Blockbuster|Historical-Setting|Nineties-Release
+Movies,Jurassic Park,Award-Winner|Action-Packed|Blockbuster|Sci-Fi-Elements|Nineties-Release
+Movies,The Lion King,Award-Winner|Blockbuster|Animated-Feature|Family-Oriented|Nineties-Release
+Movies,Finding Nemo,Award-Winner|Blockbuster|Animated-Feature|Family-Oriented|2000s-Release
+Movies,Frozen,Award-Winner|Blockbuster|Animated-Feature|Family-Oriented|2010s-Release
+Movies,Toy Story,Award-Winner|Blockbuster|Animated-Feature|Family-Oriented|Nineties-Release
+Movies,Inception,Award-Winner|Action-Packed|Blockbuster|Sci-Fi-Elements|2010s-Release
+Movies,Interstellar,Award-Winner|Dramatic-Theme|Blockbuster|Sci-Fi-Elements|2010s-Release
+Movies,The Matrix,Award-Winner|Action-Packed|Blockbuster|Sci-Fi-Elements|Nineties-Release
+Movies,Forrest Gump,Award-Winner|Dramatic-Theme|Historical-Setting|Acclaimed-Classic|Nineties-Release
+Movies,Shrek,Award-Winner|Blockbuster|Animated-Feature|Family-Oriented|2000s-Release
+Movies,Gladiator,Award-Winner|Action-Packed|Dramatic-Theme|Historical-Setting|2000s-Release
+Profession,Doctor,Healthcare-Role|Higher-Education|Client-Facing|Clinical-Setting|High-Salary
+Profession,Teacher,Education-Role|Higher-Education|Client-Facing|Public-Sector|Classroom-Based
+Profession,Police Officer,Public-Safety|Uniform-Required|Client-Facing|Public-Sector|Shift-Work
+Profession,Firefighter,Public-Safety|Uniform-Required|Physical-Labor|Public-Sector|Shift-Work
+Profession,Engineer,STEM-Field|Higher-Education|Technical-Focus|Office-Based|High-Salary
+Profession,Electrician,Skilled-Trade|Technical-Focus|Physical-Labor|Tools-Required|On-Site-Work
+Profession,Plumber,Skilled-Trade|Technical-Focus|Physical-Labor|Tools-Required|On-Site-Work
+Profession,Chef,Skilled-Trade|Physical-Labor|Tools-Required|Shift-Work|Creative-Focus
+Profession,Pilot,Technical-Focus|Uniform-Required|High-Salary|Shift-Work|Travel-Required
+Profession,Lawyer,Higher-Education|Client-Facing|Office-Based|High-Salary|Legal-Focus
+Profession,Nurse,Healthcare-Role|Higher-Education|Client-Facing|Clinical-Setting|Shift-Work
+Profession,Mechanic,Skilled-Trade|Technical-Focus|Physical-Labor|Tools-Required|On-Site-Work
+Profession,Scientist,STEM-Field|Higher-Education|Technical-Focus|Office-Based|Research-Focus
+Profession,Architect,STEM-Field|Higher-Education|Office-Based|High-Salary|Creative-Focus
+Profession,Dentist,Healthcare-Role|Higher-Education|Client-Facing|Clinical-Setting|High-Salary
+Pokemon,Pikachu,Kanto-Origin|Yellow-Color|Electric-Type|Small-Build|Unevolved-Stage
+Pokemon,Charizard,Kanto-Origin|Fire-Type|Flying-Type|Fully-Evolved|Starter-Line
+Pokemon,Bulbasaur,Kanto-Origin|Grass-Type|Small-Build|Unevolved-Stage|Starter-Line
+Pokemon,Squirtle,Kanto-Origin|Water-Type|Small-Build|Unevolved-Stage|Starter-Line
+Pokemon,Eevee,Kanto-Origin|Small-Build|Unevolved-Stage|Normal-Type|Branching-Evo
+Pokemon,Snorlax,Kanto-Origin|Large-Build|Fully-Evolved|Normal-Type|High-HP
+Pokemon,Lucario,Sinnoh-Origin|Fully-Evolved|Steel-Type|Fighting-Type|Humanoid-Shape
+Pokemon,Gengar,Kanto-Origin|Fully-Evolved|Ghost-Type|Poison-Type|Purple-Color
+Pokemon,Mewtwo,Kanto-Origin|Fully-Evolved|Psychic-Type|Humanoid-Shape|Legendary-Status
+Pokemon,Greninja,Kalos-Origin|Water-Type|Fully-Evolved|Starter-Line|Dark-Type
+Pokemon,Rayquaza,Hoenn-Origin|Flying-Type|Dragon-Type|Legendary-Status|Serpentine-Shape
+Pokemon,Garchomp,Sinnoh-Origin|Fully-Evolved|Dragon-Type|Ground-Type|High-Attack
+Pokemon,Dragonite,Kanto-Origin|Flying-Type|Dragon-Type|Fully-Evolved|High-Attack
+Pokemon,Blastoise,Kanto-Origin|Water-Type|Fully-Evolved|Starter-Line|Large-Build
+Pokemon,Arceus,Sinnoh-Origin|Normal-Type|Legendary-Status|Quadruped-Shape|Mythical-Status
+Basketball Teams,Los Angeles Lakers,Western-Conference|Pacific-Division|Major-Market|Multi-Champion|California-Based
+Basketball Teams,Golden State Warriors,Western-Conference|Pacific-Division|Major-Market|Multi-Champion|California-Based
+Basketball Teams,Boston Celtics,Eastern-Conference|Atlantic-Division|Historic-Franchise|Multi-Champion|East-Coast
+Basketball Teams,Chicago Bulls,Eastern-Conference|Central-Division|Major-Market|Multi-Champion|Midwest-Region
+Basketball Teams,Miami Heat,Eastern-Conference|Southeast-Division|Multi-Champion|Florida-Based|Coastal-City
+Basketball Teams,New York Knicks,Eastern-Conference|Atlantic-Division|Major-Market|Historic-Franchise|East-Coast
+Basketball Teams,Brooklyn Nets,Eastern-Conference|Atlantic-Division|Major-Market|East-Coast|Cross-Town-Rival
+Basketball Teams,Dallas Mavericks,Western-Conference|Southwest-Division|Texas-Based|Single-Champion|Southern-Region
+Basketball Teams,Phoenix Suns,Western-Conference|Pacific-Division|Warm-Climate|Sunbelt-Region|Western-Market
+Basketball Teams,Denver Nuggets,Western-Conference|Northwest-Division|Single-Champion|Mountain-Region|Western-Market
+Basketball Teams,Milwaukee Bucks,Eastern-Conference|Central-Division|Multi-Champion|Midwest-Region|Small-Market
+Basketball Teams,Philadelphia 76ers,Eastern-Conference|Atlantic-Division|Historic-Franchise|Multi-Champion|East-Coast
+Basketball Teams,Cleveland Cavaliers,Eastern-Conference|Central-Division|Single-Champion|Midwest-Region|Small-Market
+Basketball Teams,Oklahoma City Thunder,Western-Conference|Northwest-Division|Midwest-Region|Relocated-Franchise|Small-Market
+Basketball Teams,Houston Rockets,Western-Conference|Southwest-Division|Texas-Based|Multi-Champion|Southern-Region
