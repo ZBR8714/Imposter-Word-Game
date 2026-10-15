@@ -1,227 +1,536 @@
-Category,Word,Hint
-Basketball Players,Stephen Curry,Guard|Shooter|Champion|Veteran|Dynasty
-Basketball Players,LeBron James,Forward|Scorer|Champion|Veteran|Leader
-Basketball Players,Nikola Jokic,Center|Playmaker|International|MVP|Veteran
-Basketball Players,Kyrie Irving,Guard|Ball Handler|Champion|Veteran|All Star
-Basketball Players,Kobe Bryant,Guard|Scorer|Champion|Veteran|Leader
-Basketball Players,Michael Jordan,Guard|Scorer|Champion|Veteran|Legend
-Basketball Players,Kevin Durant,Forward|Scorer|Shooter|Champion|Veteran
-Basketball Players,Giannis Antetokounmpo,Forward|Defender|Champion|International|MVP
-Basketball Players,Luka Doncic,Guard|Scorer|Playmaker|International|Young
-Basketball Players,Shaquille O'Neal,Center|Powerful|Champion|Veteran|Dominant
-Basketball Players,Tim Duncan,Forward|Defender|Champion|Veteran|Leader
-Basketball Players,Allen Iverson,Guard|Scorer|Quick|Veteran|Competitive
-Basketball Players,James Harden,Guard|Scorer|Playmaker|Veteran|MVP
-Basketball Players,Magic Johnson,Guard|Playmaker|Champion|Veteran|Leader
-Basketball Players,Larry Bird,Forward|Shooter|Champion|Veteran|Leader
-Basketball Players,Kawhi Leonard,Forward|Defender|Champion|Veteran|Quiet
-Basketball Players,Dwyane Wade,Guard|Scorer|Champion|Veteran|Athletic
-Basketball Players,Chris Paul,Guard|Playmaker|Defender|Veteran|Leader
-Basketball Players,Russell Westbrook,Guard|Athletic|Scorer|Veteran|MVP
-Basketball Players,Carmelo Anthony,Forward|Scorer|Veteran|Olympics|All Star
-Video Games,Fortnite,Battle Royale|Building|Seasons|Cosmetics|Competitive
-Video Games,Minecraft,Survival|Building|Exploration|Resources|Creatures
-Video Games,Roblox,Online|Avatars|Creation|Multiplayer|Customisation
-Video Games,Valorant,Agents|Rounds|Weapons|Teams|Competitive
-Video Games,Marvel Rivals,Heroes|Teams|Abilities|Objectives|Competitive
-Video Games,Helldivers 2,Cooperative|Weapons|Aliens|Missions|Third Person
-Video Games,Palworld,Creatures|Survival|Building|Exploration|Crafting
-Video Games,Baldur's Gate 3,Fantasy|Party|Choices|Exploration|Turn Based
-Video Games,Elden Ring,Fantasy|Exploration|Bosses|Combat|Difficult
-Video Games,Grand Theft Auto V,Open World|Vehicles|Missions|City|Action
-Video Games,Red Dead Redemption 2,Western|Horses|Exploration|Weapons|Story
-Video Games,Call of Duty: Warzone,Weapons|Multiplayer|Battle Royale|Teams|Competitive
-Video Games,Apex Legends,Legends|Teams|Abilities|Weapons|Battle Royale
-Video Games,Overwatch 2,Heroes|Teams|Abilities|Objectives|Competitive
-Video Games,Rocket League,Cars|Sports|Teams|Competitive|Online
-Video Games,Dead by Daylight,Horror|Teams|Escape|Characters|Online
-Video Games,Phasmophobia,Horror|Investigation|Cooperative|Ghosts|Equipment
-Video Games,Among Us,Multiplayer|Voting|Tasks|Social|Space
-Video Games,The Finals,Teams|Objectives|Destruction|Weapons|Competitive
-Video Games,Counter-Strike 2,Weapons|Rounds|Teams|Competitive|Tactical
-Marvel Characters,Spider-Man,City|Young|Hero|Science|Agile
-Marvel Characters,Iron Man,Technology|Hero|Rich|Flight|Armour
-Marvel Characters,Captain America,Soldier|Hero|Shield|Leader|Enhanced
-Marvel Characters,Thor,Powerful|Hero|Lightning|Royalty|Warrior
-Marvel Characters,Hulk,Strong|Science|Hero|Transformation|Green
-Marvel Characters,Black Panther,King|Hero|Technology|Warrior|Africa
-Marvel Characters,Wolverine,Mutant|Fighter|Claws|Healing|Veteran
-Marvel Characters,Deadpool,Anti Hero|Fighter|Humour|Healing|Weapons
-Marvel Characters,Doctor Strange,Magic|Doctor|Hero|Mystical|Powerful
-Marvel Characters,Scarlet Witch,Magic|Powerful|Hero|Red|Mystical
-Marvel Characters,Black Widow,Spy|Fighter|Hero|Weapons|Russian
-Marvel Characters,Loki,Magic|Trickster|Royalty|Villain|Sibling
-Marvel Characters,Thanos,Villain|Powerful|Alien|Purple|Cosmic
-Marvel Characters,Venom,Alien|Fighter|Dark|Anti Hero|Powerful
-Marvel Characters,Magneto,Mutant|Villain|Powerful|Leader|Metal
-Marvel Characters,Ant Man,Hero|Technology|Small|Scientist|Thief
-Marvel Characters,Captain Marvel,Hero|Powerful|Flight|Military|Cosmic
-Marvel Characters,Star Lord,Space|Leader|Music|Weapons|Adventurer
-Marvel Characters,Groot,Alien|Hero|Large|Space|Regeneration
-Marvel Characters,Rocket,Alien|Weapons|Technology|Space|Fighter
-Pokemon,Pikachu,Electric|Small|Yellow|Kanto|Cute
-Pokemon,Charizard,Fire|Flying|Orange|Starter|Powerful
-Pokemon,Eevee,Normal|Small|Brown|Evolution|Cute
-Pokemon,Mewtwo,Psychic|Powerful|Rare|Kanto|Legendary
-Pokemon,Gengar,Ghost|Purple|Kanto|Dark|Popular
-Pokemon,Lucario,Fighting|Steel|Blue|Humanoid|Popular
-Pokemon,Rayquaza,Dragon|Flying|Green|Legendary|Powerful
-Pokemon,Garchomp,Dragon|Ground|Blue|Powerful|Fast
-Pokemon,Snorlax,Large|Normal|Sleep|Slow|Kanto
-Pokemon,Greninja,Water|Dark|Blue|Ninja|Starter
-Pokemon,Blastoise,Water|Large|Blue|Starter|Defensive
-Pokemon,Arceus,Legendary|Mythical|Powerful|White|Ancient
-Pokemon,Lugia,Flying|Psychic|White|Legendary|Ocean
-Pokemon,Gyarados,Water|Flying|Large|Blue|Aggressive
-Pokemon,Ditto,Normal|Purple|Small|Transformation|Breeding
-Pokemon,Gardevoir,Psychic|Fairy|Elegant|Humanoid|Popular
-Pokemon,Dragonite,Dragon|Flying|Orange|Large|Friendly
-Pokemon,Machamp,Fighting|Large|Strong|Humanoid|Kanto
-Pokemon,Darkrai,Dark|Mythical|Black|Night|Powerful
-Pokemon,Tyranitar,Rock|Dark|Large|Green|Powerful
-Artists,Taylor Swift,American|Pop|Solo|Songwriter|Albums
-Artists,Drake,Canadian|Rap|Solo|R&B|Producer
-Artists,The Weeknd,Canadian|R&B|Solo|Pop|Mainstream
-Artists,Beyonce,American|Pop|R&B|Dancer|Solo
-Artists,Eminem,American|Rap|Solo|Detroit|Veteran
-Artists,Ed Sheeran,British|Pop|Guitar|Songwriter|Solo
-Artists,Ariana Grande,American|Pop|Actress|Solo|High Voice
-Artists,Bruno Mars,American|Pop|Dancer|Performer|Funk
-Artists,Billie Eilish,American|Pop|Alternative|Solo|Songwriter
-Artists,Rihanna,Barbadian|Pop|R&B|Business|Solo
-Artists,Justin Bieber,Canadian|Pop|Solo|Young|Mainstream
-Artists,Post Malone,American|Rap|Pop|Guitar|Solo
-Artists,Lady Gaga,American|Pop|Actress|Performer|Theatrical
-Artists,Michael Jackson,American|Pop|Dancer|Solo|Legend
-Artists,Adele,British|Pop|Ballads|Solo|Powerful Voice
-Artists,Harry Styles,British|Pop|Solo|Fashion|Performer
-Artists,Travis Scott,American|Rap|Producer|Solo|Mainstream
-Artists,Kendrick Lamar,American|Rap|Solo|Storytelling|Award Winner
-Artists,Tyler The Creator,American|Rap|Producer|Fashion|Creative
-Artists,Doja Cat,American|Pop|Rap|Solo|Internet
-Superpowers,Flight,Movement|Air|Travel|Height|Mobility
-Superpowers,Invisibility,Stealth|Concealment|Escape|Surprise|Utility
-Superpowers,Super Strength,Physical|Combat|Power|Lifting|Durability
-Superpowers,Telepathy,Mind|Thoughts|Communication|Psychic|Distance
-Superpowers,Teleportation,Movement|Distance|Instant|Escape|Travel
-Superpowers,Time Travel,Past|Future|History|Changes|Temporal
-Superpowers,Telekinesis,Mind|Objects|Movement|Psychic|Distance
-Superpowers,Regeneration,Healing|Recovery|Survival|Physical|Damage
-Superpowers,Super Speed,Movement|Reflexes|Travel|Combat|Reaction
-Superpowers,Shape Shifting,Body|Disguise|Transformation|Adaptation|Physical
-Superpowers,Fire Manipulation,Heat|Flames|Attack|Energy|Destruction
-Superpowers,Ice Manipulation,Cold|Freezing|Attack|Defence|Temperature
-Superpowers,Electricity Manipulation,Energy|Lightning|Shock|Power|Technology
-Superpowers,Water Manipulation,Liquid|Ocean|Pressure|Environment|Defence
-Superpowers,Mind Control,Thoughts|Influence|Psychic|Control|Mental
-Superpowers,Force Fields,Defence|Barrier|Energy|Protection|Shield
-Superpowers,Super Intelligence,Knowledge|Science|Strategy|Memory|Problem Solving
-Superpowers,Elasticity,Body|Stretching|Flexibility|Movement|Reach
-Superpowers,X Ray Vision,Eyes|Vision|Detection|Distance|Senses
-Superpowers,Energy Absorption,Energy|Defence|Power|Attacks|Storage
-Minecraft,Creeper,Overworld|Hostile|Night|Green|Common
-Minecraft,Enderman,Overworld|Tall|Hostile|Dark|Unusual
-Minecraft,Zombie,Overworld|Hostile|Night|Undead|Common
-Minecraft,Skeleton,Overworld|Hostile|Ranged|Undead|Common
-Minecraft,Diamond,Ore|Mining|Blue|Rare|Valuable
-Minecraft,Netherite,Nether|Mining|Rare|Strong|Equipment
-Minecraft,Ender Dragon,End|Boss|Flying|Rare|Difficult
-Minecraft,Wither,Boss|Undead|Flying|Rare|Difficult
-Minecraft,Redstone,Mining|Automation|Machines|Power|Technical
-Minecraft,Emerald,Ore|Trading|Green|Rare|Valuable
-Minecraft,Obsidian,Dark|Strong|Building|Nether|Portal
-Minecraft,Villager,Village|Trading|Professions|NPC|Emeralds
-Minecraft,Iron Golem,Village|Defence|Large|Neutral|Strong
-Minecraft,Blaze,Nether|Flying|Fire|Hostile|Rare
-Minecraft,Wither Skeleton,Nether|Undead|Hostile|Rare|Fortress
-Minecraft,Axolotl,Water|Small|Passive|Rare|Cave
-Minecraft,Warden,Deep Dark|Hostile|Blind|Powerful|Rare
-Minecraft,Allay,Small|Flying|Passive|Items|Blue
-Minecraft,Shulker,End|Purple|Hostile|Rare|Defence
-Minecraft,Trial Chamber,Underground|Combat|Structure|Exploration|Copper
-Anime Characters,Naruto Uzumaki,Ninja|Orange|Young|Leader|Shonen
-Anime Characters,Goku,Martial Artist|Orange|Powerful|Alien|Shonen
-Anime Characters,Luffy,Pirate|Young|Leader|Adventure|Shonen
-Anime Characters,Ichigo Kurosaki,Sword|Orange|Young|Fighter|Supernatural
-Anime Characters,Saitama,Hero|Bald|Powerful|Comedy|Young
-Anime Characters,Gojo Satoru,Teacher|White Hair|Powerful|Blindfold|Sorcerer
-Anime Characters,Tanjiro Kamado,Sword|Young|Kind|Fighter|Family
-Anime Characters,Nezuko Kamado,Young|Female|Pink|Supernatural|Family
-Anime Characters,Eren Yeager,Young|Military|Titan|Revenge|Leader
-Anime Characters,Light Yagami,Student|Intelligent|Young|Villain|Japanese
-Anime Characters,Edward Elric,Alchemy|Young|Blonde|Brother|Fighter
-Anime Characters,Killua Zoldyck,Young|White Hair|Assassin|Fast|Electric
-Anime Characters,Levi Ackerman,Military|Captain|Short|Skilled|Sword
-Anime Characters,Denji,Young|Poor|Fighter|Supernatural|Hunter
-Anime Characters,Izuku Midoriya,Young|Student|Green|Hero|Intelligent
-Anime Characters,Sasuke Uchiha,Young|Ninja|Rival|Powerful|Japanese
-Anime Characters,Mikasa Ackerman,Military|Female|Skilled|Young|Scarf
-Anime Characters,Asta,Young|Sword|Magic|Fighter|Shonen
-Anime Characters,Hisoka,Clown|Villain|Fighter|Strange|Adult
-Anime Characters,Yuji Itadori,Young|Student|Fighter|Supernatural|Japanese
-Crimes,Theft,Property|Unauthorised|Possession|Individual|Intent
-Crimes,Robbery,Property|Threat|Money|Confrontation|Force
-Crimes,Burglary,Property|Building|Entry|Unauthorised|Night
-Crimes,Fraud,Deception|Money|Information|Financial|Victim
-Crimes,Arson,Fire|Property|Damage|Investigation|Intent
-Crimes,Assault,Physical|Violence|Person|Conflict|Harm
-Crimes,Vandalism,Property|Damage|Public|Destruction|Graffiti
-Crimes,Shoplifting,Store|Property|Unpaid|Retail|Theft
-Crimes,Trespassing,Property|Entry|Land|Unauthorised|Warning
-Crimes,Identity Theft,Personal|Information|Money|Online|Impersonation
-Crimes,Extortion,Threat|Money|Coercion|Demand|Victim
-Crimes,Bribery,Money|Influence|Official|Favour|Corruption
-Crimes,Money Laundering,Money|Financial|Transactions|Concealment|Illegal
-Crimes,Perjury,Court|Witness|Statement|False|Legal
-Crimes,Embezzlement,Money|Workplace|Trust|Financial|Employee
-Crimes,Blackmail,Threat|Secret|Information|Money|Coercion
-Crimes,Counterfeiting,Money|Forgery|Documents|Imitation|Financial
-Crimes,Kidnapping,Person|Confinement|Movement|Threat|Ransom
-Crimes,Stalking,Following|Contact|Unwanted|Person|Harassment
-Crimes,Piracy,Copyright|Media|Online|Distribution|Unauthorised
-Hypixel Skyblock,Aspect of the End,Sword|Combat|Early Game|Progression|End
-Hypixel Skyblock,Hyperion,Weapon|Dungeon|Mage|Expensive|Late Game
-Hypixel Skyblock,Necron,Armour|Dungeon|Boss|Wither|Late Game
-Hypixel Skyblock,Terminator,Bow|Combat|Archer|Expensive|Late Game
-Hypixel Skyblock,Juju Shortbow,Bow|Combat|Archer|Dungeon|Progression
-Hypixel Skyblock,Superior Dragon,Armour|Dragon|End|Combat|Expensive
-Hypixel Skyblock,Young Dragon Armour,Armour|Dragon|End|Speed|Early Game
-Hypixel Skyblock,Shadow Assassin Armour,Armour|Dungeon|Combat|Assassin|Progression
-Hypixel Skyblock,Livid Dagger,Weapon|Dungeon|Combat|Assassin|Progression
-Hypixel Skyblock,Aspect of the Dragons,Sword|Dragon|End|Combat|Rare
-Hypixel Skyblock,Ender Dragon,Boss|End|Dragon|Combat|Rare
-Hypixel Skyblock,Zealot,Mob|End|Combat|Grinding|Rare
-Hypixel Skyblock,Mithril,Ore|Mining|Dwarven Mines|Resource|Progression
-Hypixel Skyblock,Glacite,Ore|Mining|Cold|Resource|Progression
-Hypixel Skyblock,Divan Armour,Armour|Mining|Gemstones|Expensive|Late Game
-Hypixel Skyblock,Crimson Armour,Armour|Combat|Crimson Isle|Progression|Late Game
-Hypixel Skyblock,Kuudra,Boss|Crimson Isle|Combat|Cooperative|Late Game
-Hypixel Skyblock,Dark Auction,Auction|Coins|Rare|Special|Economy
-Hypixel Skyblock,Booster Cookie,Consumable|Buff|Duration|Economy|Progression
-Hypixel Skyblock,Termite,Mob|Dwarven Mines|Mining|Underground|Hostile
-Friend Group,Zach,Rapist|Athletic|White|Spec|Rivals
-Friend Group,Ben Tran,Twink|Not White|Spec|Valorant
-Friend Group,Jaguado,Not White|Spec
-Friend Group,Josh D,Fat|White|Spec|Skyblock|Rivals
-Friend Group,Max Kelly,Twink|Athletic|White|Skyblock
-Friend Group,Sam,Twink|White|Rivals
-Friend Group,Massimo,Twink|White|Short|Angry
-Friend Group,Eric,Athletic|Not White|Skyblock|Valorant|Rivals
-Friend Group,Aston,Rapist|Not White|Angry
-Friend Group,Harry,Fat|White|Angry
-Friend Group,Nick,White|Short|Angry
-Friend Group,Max Wells,Fat|White
-Friend Group,Kosta,Rapist|White|Angry
-Friend Group,Anthony Ngo,Rapist|Not White|Skyblock|Angry
-Friend Group,Anthony F,Fat|Rapist|Not White
-Friend Group,Sean,Twink|Not White|Spec|Short
-Friend Group,Jack Brown,Twink|White|Short|Skyblock
-Friend Group,Alex Venus,Athletic|White
-Friend Group,Max Bodnar,Fat|White|Rivals
-Friend Group,Josh Ferdinands,Not White|Athletic
-Friend Group,Gary Lee,Not White|Rapist|Valorant|Rivals
-Friend Group,Imran,Not White|Skyblock|Valorant
-Friend Group,Oscar Rodwell,White|Skyblock|Rivals
-Friend Group,Sky Chen,Not White|Rapist|Valorant|Rivals
-Friend Group,Oscar Sutherland,White|Skyblock
-Friend Group,Zak Mallen,Rapist|White|Valorant|Rivals|Angry
+Category,Word,Hint,Times Selected
+Movie,A Silent Voice,Animation|Redemption|School|Guilt|Friendship,0
+Movie,I Want to Eat Your Pancreas,Animation|Illness|School|Friendship|Memories,0
+Movie,Avengers Endgame,Superheroes|Action|Sacrifice|Time|Loss,0
+Movie,Spiderman 1,Superheroes|Action|Teenager|Responsibility|Romance,0
+Movie,Spiderman 2,Superheroes|Action|Responsibility|Sacrifice|City,0
+Movie,Spiderman 3,Superheroes|Action|Revenge|Forgiveness|Romance,0
+Movie,Obsession,Horror|Love|Wishes|Dark|Consequences,0
+Movie,Spiderman Homecoming,Superheroes|Teenager|School|Mentor|Action,0
+Movie,Spiderman Far From Home,Superheroes|Travel|Teenager|Illusion|Action,0
+Movie,Spiderman No Way Home,Superheroes|Multiverse|Regret|Action|Sacrifice,0
+Movie,Spiderman Brand New Day,Superheroes|Action|City|Identity|Secrets,0
+Movie,Cars,Racing|Animation|Family|Small Town|Friendship,0
+Movie,Cars 2,Racing|Animation|Spies|Travel|Friendship,0
+Movie,Frozen,Animation|Family|Winter|Musical|Magic,0
+Movie,Moana,Animation|Ocean|Musical|Journey|Family,0
+Movie,Avatar,Sci-Fi|Alien|Nature|War|Journey,0
+Movie,Avatar the Last Airbender,Animation|Fantasy|Journey|War|Destiny,0
+Movie,Mission Impossible,Action|Spies|Stunts|Betrayal|Global,0
+Movie,Top Gun,Action|Aviation|Rivalry|Military|Competition,0
+Movie,Paddington,Family|Comedy|Kindness|Adventure|Home,0
+Movie,Elf,Christmas|Comedy|Family|City|Innocence,0
+Movie,Fight Club,Drama|Identity|Violence|Rebellion|Twist,0
+Movie,Home Alone,Christmas|Comedy|Family|Childhood|Survival,0
+Movie,The Grinch,Christmas|Comedy|Animation|Family|Redemption,0
+Movie,Die Hard,Action|Christmas|Thriller|Heist|Survival,0
+Movie,The Backrooms,Horror|Liminal|Mystery|Survival|Dark,0
+Movie,Goosebumps,Horror|Family|Comedy|Monsters|Adventure,0
+Movie,Ready Player One,Sci-Fi|Gaming|Adventure|Nostalgia|Dystopia,0
+Movie,Interstellar,Sci-Fi|Space|Family|Time|Survival,0
+Movie,Jurassic Park,Sci-Fi|Adventure|Survival|Science|Thriller,0
+Movie,Harry Potter Chamber of Secrets,Magic|School|Mystery|Fantasy|Friendship,0
+Movie,Harry Potter and the Goblet of Fire,Magic|School|Competition|Fantasy|Danger,0
+Movie,Harry Potter and the Deathly Hallows,Magic|War|Fantasy|Sacrifice|Friendship,0
+Movie,The Incredibles,Superheroes|Animation|Family|Action|Secrets,0
+Movie,Minions,Animation|Comedy|Villains|Adventure|Sidekicks,0
+Movie,Despicable Me,Animation|Comedy|Villains|Family|Adoption,1
+Movie,Jumanji,Adventure|Games|Comedy|Jungle|Teamwork,0
+Movie,Zootopia,Animation|Animals|Mystery|Prejudice|Buddy,0
+Movie,Angry Birds,Animation|Comedy|Games|Animals|Revenge,0
+Movie,Transformers,Action|Sci-Fi|Robots|War|Alien,0
+Movie,The Godfather,Crime|Family|Power|Betrayal|Loyalty,0
+Movie,Fast and Furious,Action|Racing|Crime|Family|Heist,0
+Movie,Shawshank Redemption,Drama|Prison|Hope|Friendship|Injustice,0
+Movie,Forrest Gump,Drama|Journey|Romance|History|Comedy,0
+Movie,ET,Sci-Fi|Alien|Family|Friendship|Childhood,0
+Movie,The Hunger Games,Dystopia|Survival|Competition|Rebellion|Teenager,0
+Movie,Joker,Drama|Crime|Madness|City|Isolation,0
+Movie,Guardians of the Galaxy,Superheroes|Space|Comedy|Adventure|Family,1
+Movie,IT,Horror|Fear|Childhood|Friendship|Monsters,0
+Movie,Jaws,Thriller|Ocean|Survival|Summer|Horror,0
+Movie,Shrek,Animation|Comedy|Fantasy|Romance|Friendship,0
+Movie,Up,Animation|Adventure|Friendship|Loss|Family,0
+Movie,The Exorcist,Horror|Faith|Fear|Family|Dark,0
+Movie,The Hangover,Comedy|Friendship|Mystery|Travel|Chaos,0
+Movie,Monsters Inc,Animation|Comedy|Monsters|Childhood|Friendship,0
+Movie,The Batman,Superheroes|Crime|Mystery|City|Revenge,0
+Movie,The Shining,Horror|Isolation|Madness|Family|Winter,0
+Movie,Dune,Sci-Fi|Desert|War|Destiny|Power,0
+Movie,Back to the Future,Sci-Fi|Time|Comedy|Adventure|Family,0
+Movie,Ted,Comedy|Friendship|Fantasy|Adulthood|Romance,0
+Movie,The Lorax,Animation|Nature|Greed|Musical|Environment,0
+Movie,Madagascar,Animation|Comedy|Animals|Adventure|Friendship,0
+Movie,The Croods,Animation|Family|Adventure|Comedy|Survival,0
+Movie,Ice Age,Animation|Animals|Adventure|Comedy|Survival,0
+Movie,The Matrix,Sci-Fi|Action|Reality|Destiny|Rebellion,0
+Movie,Karate Kid,Martial Arts|Underdog|Mentor|Teenager|Competition,0
+Movie,Project Hail Mary,Sci-Fi|Space|Survival|Friendship|Science,0
+Movie,Sing,Animation|Musical|Animals|Competition|Comedy,0
+Movie,Coraline,Animation|Fantasy|Dark|Family|Escape,0
+Movie,Over the Hedge,Animation|Comedy|Animals|Heist|Suburbia,0
+Movie,Hotel Transylvania,Animation|Comedy|Monsters|Family|Romance,0
+Movie,Megamind,Animation|Comedy|Superheroes|Villains|Romance,0
+Movie,Kung Fu Panda,Animation|Martial Arts|Comedy|Destiny|Underdog,0
+Movie,Oceans 11,Heist|Crime|Teamwork|Revenge|Romance,0
+Movie,Shazam,Superheroes|Comedy|Family|Magic|Teenager,0
+Movie,50 Shades of Grey,Romance|Drama|Desire|Wealth|Secrets,0
+Movie,Casper the Friendly Ghost,Family|Fantasy|Afterlife|Friendship|Loneliness,0
+Movie,Superman,Superheroes|Action|Alien|Hope|Identity,0
+Movie,The Dictator,Comedy|Politics|Satire|Travel|Identity,0
+Movie,Borat,Comedy|Satire|Travel|Culture|Mockumentary,0
+Movie,Jackass,Comedy|Stunts|Friendship|Pranks|Chaos,0
+Movie,The Bee Movie,Animation|Comedy|Animals|Justice|Romance,0
+Movie,The Truman Show,Drama|Reality|Comedy|Identity|Freedom,0
+Movie,Rango,Animation|Western|Comedy|Animals|Identity,0
+Movie,Free Guy,Comedy|Gaming|Sci-Fi|Romance|Action,0
+Movie,Superbad,Comedy|Teenager|Friendship|School|Party,0
+Movie,Blade Runner,Sci-Fi|Dystopia|Identity|Mystery|Robots,0
+Movie,Maze Runner,Sci-Fi|Dystopia|Survival|Teenager|Mystery,0
+Movie,Lord of the Rings,Fantasy|Journey|War|Friendship|Destiny,0
+Movie,Hop,Animation|Comedy|Family|Music|Holiday,0
+Movie,Baby Driver,Action|Crime|Music|Romance|Heist,0
+Movie,The Terminator,Sci-Fi|Action|Robots|Time|Survival,0
+Movie,Get Out,Horror|Thriller|Mystery|Family|Prejudice,0
+Movie,The Italian Job,Heist|Crime|Action|Teamwork|Revenge,0
+Movie,12 Angry Men,Drama|Justice|Courtroom|Debate|Prejudice,0
+Movie,The Mummy,Adventure|Action|Fantasy|Horror|Romance,0
+Movie,Scary Movie,Comedy|Horror|Parody|Teenager|Chaos,0
+Movie,Scream,Horror|Slasher|Mystery|Teenager|Parody,0
+Movie,Halloween,Horror|Slasher|Night|Suburbia|Survival,0
+Movie,Friday the 13th,Horror|Slasher|Summer|Teenager|Survival,0
+Movie,Star Wars A New Hope,Sci-Fi|Space|Rebellion|Destiny|Heroes,0
+Movie,Star Wars Return of the Jedi,Sci-Fi|Space|Rebellion|Family|Redemption,0
+Movie,Star Wars Revenge of the Sith,Sci-Fi|Space|War|Betrayal|Tragedy,0
+Movie,Star Wars Rise of Skywalker,Sci-Fi|Space|War|Legacy|Heroes,0
+Movie,Harry Potter Fantastic Beasts and Where to Find Them,Magic|Fantasy|Animals|Adventure|Mystery,0
+Game,Valorant,Teamwork|Shooter|Characters|Abilities|Guns,0
+Game,Overwatch 2,Characters|Teamwork|Fighting|Abilities|Ultimate,0
+Game,League of Legends,Characters|Hell|Hard|Guns|Abilities,0
+Game,Elden Ring,Fantasy|Fighting|Bosses|Currency|Hard,0
+Game,Strinova,Hard|Shooter|Characters|Teamwork|Abilities,0
+Game,Marvel Rivals,Guns|Characters|Hell|Abilities|Ultimate,0
+Game,Rainbow Six Siege,Teamwork|Characters|Abilities|Hard|Hell,0
+Game,Roblox,Building|Fighting|Games|Guns|Multiplayer,0
+Game,Minecraft,Fighting|Building|Currency|Teamwork|Survival,0
+Game,Skyblock,Hell|Currency|Fantasy|Teamwork|Progression,0
+Game,Rounds,Hard|Fighting|Weapons|Abilities|Guns,0
+Game,Clash Royale,Fighting|Characters|Hell|Abilities|Currency,0
+Game,Apex Legends,Characters|Teamwork|Battle Royale|Guns|Hard,0
+Game,BTD6,Characters|Currency|Guns|Upgrades|Rounds,1
+Game,Subnautica,Ocean|Survival|Crafting|Exploration|Scary,0
+Game,Terraria,Teamwork|Guns|Survival|Exploration|Weapons,0
+Game,The Forest,Survival|Guns|Building|Teamwork|Scary,0
+Game,Gang Beasts,Brawling|Physics|Fighting|Multiplayer|Knockback,0
+Game,Phasmophobia,Currency|Survival|Hard|Teamwork|Scary,0
+Game,One Armed Robber,Teamwork|Shooter|Guns|Loot|Currency,0
+Game,Deadlock,Characters|Guns|Shooter|Teamwork|Hard,0
+Game,CS2,Guns|Shooter|Teamwork|Currency|Fighting,1
+Game,The Finals,Teamwork|Guns|Shooter|Currency|Hell,0
+Game,Pal World,Hear me out|Survival|Building|Bases|Exploration,0
+Game,Chess.com,Fighting|Strategy|Survival|Hard|Hell,0
+Game,Kovaaks,Guns|Shooter|Sam Sucks|Hell|Hard,0
+Game,COD,Characters|Guns|Shooters|Teamwork|Currency,0
+Game,Brotato,Survival|Guns|Weapons|Currency|Teamwork,0
+Game,Arc Raiders,Guns|Currency|Teamwork|Squads|Shooter,1
+Game,Lethal Company,Teamwork|Currency|Monsters|Cooperation|Hard,1
+Game,Among Us,Clone|Weapons|Strategy|Survival|Teamwork,0
+Game,Brawlhalla,Fighting|Characters|Hell|Hard|Guns,0
+Game,Tetris,Strategy|Survival|Solo|Anythings a Dildo|Building,0
+Marvel Characters,Spider-Man,City|Young|Hero|Science|Agile,0
+Marvel Characters,Iron Man,Technology|Hero|Rich|Flight|Armour,0
+Marvel Characters,Captain America,Soldier|Hero|Shield|Leader|Enhanced,1
+Marvel Characters,Thor,Powerful|Hero|Lightning|Royalty|Warrior,0
+Marvel Characters,Hulk,Strong|Science|Hero|Transformation|Green,0
+Marvel Characters,Black Panther,King|Hero|Technology|Warrior|Africa,0
+Marvel Characters,Wolverine,Mutant|Fighter|Claws|Healing|Veteran,0
+Marvel Characters,Deadpool,Anti Hero|Fighter|Humour|Healing|Weapons,0
+Marvel Characters,Doctor Strange,Magic|Doctor|Hero|Mystical|Powerful,1
+Marvel Characters,Scarlet Witch,Magic|Powerful|Hero|Red|Mystical,1
+Marvel Characters,Black Widow,Spy|Fighter|Hero|Weapons|Russian,0
+Marvel Characters,Loki,Magic|Trickster|Royalty|Villain|Sibling,0
+Marvel Characters,Thanos,Villain|Powerful|Alien|Purple|Cosmic,0
+Marvel Characters,Venom,Alien|Fighter|Dark|Anti Hero|Powerful,0
+Marvel Characters,Magneto,Mutant|Villain|Powerful|Leader|Metal,0
+Marvel Characters,Ant Man,Hero|Technology|Small|Scientist|Thief,1
+Marvel Characters,Captain Marvel,Hero|Powerful|Flight|Military|Cosmic,0
+Marvel Characters,Star Lord,Space|Leader|Music|Weapons|Adventurer,1
+Marvel Characters,Groot,Alien|Hero|Large|Space|Regeneration,1
+Marvel Characters,Rocket,Alien|Weapons|Technology|Space|Fighter,1
+Pokemon,Pikachu,Electric|Small|Yellow|Kanto|Cute,0
+Pokemon,Charizard,Fire|Flying|Orange|Starter|Powerful,0
+Pokemon,Eevee,Normal|Small|Brown|Evolution|Cute,0
+Pokemon,Mewtwo,Psychic|Powerful|Rare|Kanto|Legendary,0
+Pokemon,Gengar,Ghost|Purple|Kanto|Dark|Popular,0
+Pokemon,Lucario,Fighting|Steel|Blue|Humanoid|Popular,0
+Pokemon,Rayquaza,Dragon|Flying|Green|Legendary|Powerful,0
+Pokemon,Garchomp,Dragon|Ground|Blue|Powerful|Fast,0
+Pokemon,Snorlax,Large|Normal|Sleep|Slow|Kanto,0
+Pokemon,Greninja,Water|Dark|Blue|Ninja|Starter,0
+Pokemon,Blastoise,Water|Large|Blue|Starter|Defensive,0
+Pokemon,Arceus,Legendary|Mythical|Powerful|White|Ancient,0
+Pokemon,Lugia,Flying|Psychic|White|Legendary|Ocean,0
+Pokemon,Gyarados,Water|Flying|Large|Blue|Aggressive,0
+Pokemon,Ditto,Normal|Purple|Small|Transformation|Breeding,0
+Pokemon,Gardevoir,Psychic|Fairy|Elegant|Humanoid|Popular,0
+Pokemon,Dragonite,Dragon|Flying|Orange|Large|Friendly,1
+Pokemon,Machamp,Fighting|Large|Strong|Humanoid|Kanto,0
+Pokemon,Darkrai,Dark|Mythical|Black|Night|Powerful,0
+Pokemon,Tyranitar,Rock|Dark|Large|Green|Powerful,0
+Pokemon,Incineroar,Fire|Fighting|Orange|Powerful|Flinch,0
+Pokemon,Bidoof,Normal|Brown|Aquatic|Small|Rodent,0
+Pokemon,Vaporeon,Water|Blue|Aquatic|Evolution|Ooo Shi,0
+Pokemon,Sylveon,Fairy|Pink|Ooo Shi|Cute|Evolution,0
+Pokemon,Umbreon,Dark|Black|Ooo Shi|Night|Evolution,0
+Pokemon,Jolteon,Electric|Yellow|Speed|Ooo Shi|Evolution,0
+Pokemon,Flareon,Fire|Orange|Ooo Shi|Warm|Evolution,0
+Pokemon,Espeon,Psychic|Purple|Ooo Shi|Sun|Evolution,0
+Pokemon,Leafeon,Grass|Green|Leaves|Ooo Shi|Evolution,1
+Pokemon,Glaceon,Ice|Blue|Ooo Shi|Cold|Evolution,1
+Pokemon,Kyogre,Water|Legendary|Blue|Ocean|Powerful,0
+Pokemon,Groudon,Ground|Legendary|Red|Earth|Powerful,0
+Pokemon,Zacian,Fairy|Legendary|Sword|Blue|Warrior,0
+Pokemon,Zamazenta,Fighting|Legendary|Shield|Red|Warrior,0
+Pokemon,Fluttermane,Ghost|Fairy|Ooo Shi|Purple|Mysterious,0
+Pokemon,Pelipper,Water|Flying|White|Beak|Ocean,0
+Pokemon,Alakazam,Psychic|Yellow|Spoons|Intelligent|Powerful,0
+Pokemon,Dialga,Steel|Legendary|Blue|Big|Powerful,0
+Pokemon,Palkia,Water|Legendary|Pink|Big|Powerful,0
+Pokemon,Salamence,Dragon|Flying|Blue|Powerful|Wings,0
+Pokemon,Archaludon,Steel|Dragon|Blue|Bridge|Powerful,0
+Pokemon,Bellibolt,Electric|Green|Round|Amphibian|Bulbous,0
+Artist,Radiohead,Rock|Alternative|Experimental|Britain|Moody,0
+Artist,Jeff Buckley,Rock|Singer-Songwriter|Emotional|90s|Guitar,0
+Artist,NewJeans,K-Pop|Girl Group|Pop|Retro|Viral,0
+Artist,Twice,K-Pop|Girl Group|Pop|Dance|Stadiums,0
+Artist,PARTYNEXTDOOR,R&B|Canada|Moody|Producer|Collaboration,0
+Artist,Nujabes,Japan|Lo-Fi|Jazz|Producer|Chill,0
+Artist,Laufey,Jazz|Singer-Songwriter|Chill|Romantic|Classical,0
+Artist,Tyler the Creator,Hip-Hop|Producer|Fashion|Experimental|Creative,0
+Artist,Kanye West,Hip-Hop|Producer|Fashion|Controversy|Icon,0
+Artist,King Von,Hip-Hop|Drill|Chicago|Storytelling|Gritty,0
+Artist,Beabadoobee,Indie|Alternative|Singer-Songwriter|Guitar|Bedroom Pop,0
+Artist,Linkin Park,Rock|Alternative|Emotional|2000s|Stadiums,0
+Artist,Green Day,Rock|Punk|Guitar|Rebellion|Stadiums,0
+Artist,Doja Cat,Pop|Hip-Hop|Viral|Fashion|Dance,0
+Artist,Taylor Swift,Pop|Singer-Songwriter|Stadiums|Storytelling|Heartbreak,0
+Artist,Justin Bieber,Pop|R&B|Canada|Teen Idol|2010s,0
+Artist,The Weeknd,R&B|Pop|Canada|Dark|Moody,0
+Artist,Chief Keef,Hip-Hop|Drill|Chicago|Trap|Influential,0
+Artist,Post Malone,Hip-Hop|Pop|Melodic|Genre-Blending|2010s,0
+Artist,Will Ferrell,Hollywood|Actor|Cameo|Viral|Collaboration,0
+Artist,Don Toliver,Hip-Hop|R&B|Trap|Melodic|Collaboration,0
+Artist,Travis Scott,Hip-Hop|Trap|Concerts|Fashion|Dark,0
+Artist,Playboi Carti,Hip-Hop|Trap|Underground|Fashion|Experimental,0
+Artist,Childish Gambino,Hip-Hop|R&B|Actor|Funk|Experimental,0
+Artist,MF DOOM,Hip-Hop|Underground|Lyricism|Producer|Mysterious,0
+Artist,Wu-Tang Clan,Hip-Hop|90s|Group|New York|Lyricism,0
+Artist,Nas,Hip-Hop|90s|New York|Lyricism|Storytelling,0
+Artist,SZA,R&B|Soul|Emotional|Singer-Songwriter|Modern,0
+Artist,XXXTentacion,Hip-Hop|Emotional|Controversy|Dark|Influential,0
+Artist,J Cole,Hip-Hop|Lyricism|Storytelling|Producer|Introspective,0
+Artist,Lil Tecca,Hip-Hop|Trap|Melodic|Young|Viral,0
+Artist,Katy Perry,Pop|Dance|Colorful|2010s|Stadiums,0
+Artist,Miley Cyrus,Pop|Rock|Teen Idol|Reinvention|Controversy,0
+Artist,Rihanna,Pop|R&B|Fashion|Dance|Icon,0
+Artist,Lady Gaga,Pop|Dance|Fashion|Theatrical|Icon,0
+Artist,One Direction,Boy Band|Pop|Britain|2010s|Stadiums,0
+Artist,Marshmello,Electronic|Dance|Producer|Festival|Collaboration,0
+Artist,Michael Jackson,Pop|Legend|Dance|Icon|80s,0
+Artist,Elvis Presley,Rock|Legend|Icon|50s|Dance,0
+Artist,Arctic Monkeys,Rock|Indie|Alternative|Britain|Guitar,0
+Artist,Bruno Mars,Pop|Funk|Retro|Dance|Showmanship,0
+Artist,BTS,K-Pop|Boy Band|Pop|Global|Stadiums,0
+Artist,Keshi,R&B|Chill|Singer-Songwriter|Moody|Indie,0
+Artist,Malcolm Todd,Indie|Bedroom Pop|Singer-Songwriter|Chill|Viral,0
+Artist,Ariana Grande,Pop|R&B|Powerful Vocals|Stadiums|2010s,0
+Artist,Zedd,Electronic|Dance|Producer|Festival|Collaboration,0
+Artist,Billie Eilish,Pop|Alternative|Dark|Bedroom Pop|Young,0
+Artist,Joji,R&B|Lo-Fi|Moody|Viral|Japan,0
+Artist,PinkPantheress,Electronic|Pop|Britain|Bedroom Pop|Viral,0
+Artist,Charlie Puth,Pop|Singer-Songwriter|Producer|Piano|Collaboration,1
+Artist,Clairo,Indie|Bedroom Pop|Singer-Songwriter|Chill|Viral,0
+Artist,Chappell Roan,Pop|Theatrical|Dance|Fashion|Rising,0
+Artist,Men I Trust,Indie|Chill|Canada|Dream Pop|Band,0
+Artist,Wave to Earth,Indie|Korea|Chill|Dream Pop|Band,0
+Artist,Jonas Brothers,Boy Band|Pop|Teen Idol|Family|2000s,0
+Artist,TV Girl,Indie|Lo-Fi|Retro|Sample|Chill,0
+Artist,ABBA,Pop|Disco|Sweden|70s|Group,0
+Artist,Robbie Williams,Pop|Britain|Showmanship|90s|Solo Career,0
+Artist,YOASOBI,Japan|Duo|Pop|Animation|Storytelling,0
+Artist,Daft Punk,Electronic|Dance|Duo|Retro|Disco,1
+Artist,Lovejoy,Indie|Rock|Britain|Band|Guitar,0
+Artist,Wilbur Soot,Indie|Singer-Songwriter|Britain|Guitar|Moody,0
+Artist,The Smiths,Rock|Indie|Britain|80s|Band,0
+Artist,Steve Lacy,R&B|Funk|Guitar|Producer|Indie,0
+Artist,Tame Impala,Psychedelic|Rock|Electronic|Australia|Producer,0
+Artist,The Rare Occasions,Indie|Rock|Band|Alternative|Dark,0
+Artist,Olivia Rodrigo,Pop|Pop-Punk|Heartbreak|Singer-Songwriter|Young,0
+Artist,Backstreet Boys,Boy Band|Pop|90s|Harmony|Group,0
+Artist,Justin Timberlake,Pop|R&B|Dance|Actor|Boy Band,0
+Artist,Maroon 5,Pop|Rock|Band|Funk|2000s,0
+Artist,Daniel Caesar,R&B|Soul|Gospel|Canada|Romantic,0
+Artist,Diddy,Hip-Hop|Producer|Business|90s|Controversy,0
+Artist,Calvin Harris,Electronic|Dance|Producer|Festival|Britain,0
+Artist,I DONT KNOW HOW BUT THEY FOUND ME,Alternative|Electronic|Duo|Rock|Dark,0
+Superpowers,Flight,Movement|Air|Travel|Height|Mobility,0
+Superpowers,Invisibility,Stealth|Concealment|Escape|Surprise|Utility,0
+Superpowers,Super Strength,Physical|Combat|Power|Lifting|Durability,0
+Superpowers,Telepathy,Mind|Thoughts|Communication|Psychic|Distance,1
+Superpowers,Teleportation,Movement|Distance|Instant|Escape|Travel,0
+Superpowers,Time Travel,Past|Future|History|Changes|Temporal,0
+Superpowers,Telekinesis,Mind|Objects|Movement|Psychic|Distance,0
+Superpowers,Regeneration,Healing|Recovery|Survival|Physical|Damage,0
+Superpowers,Super Speed,Movement|Reflexes|Travel|Combat|Reaction,0
+Superpowers,Shape Shifting,Body|Disguise|Transformation|Adaptation|Physical,0
+Superpowers,Fire Manipulation,Heat|Flames|Attack|Energy|Destruction,0
+Superpowers,Ice Manipulation,Cold|Freezing|Attack|Defence|Temperature,0
+Superpowers,Electricity Manipulation,Energy|Lightning|Shock|Power|Technology,0
+Superpowers,Water Manipulation,Liquid|Ocean|Pressure|Environment|Defence,0
+Superpowers,Mind Control,Thoughts|Influence|Psychic|Control|Mental,0
+Superpowers,Force Fields,Defence|Barrier|Energy|Protection|Shield,0
+Superpowers,Super Intelligence,Knowledge|Science|Strategy|Memory|Problem Solving,1
+Superpowers,Elasticity,Body|Stretching|Flexibility|Movement|Reach,0
+Superpowers,X Ray Vision,Eyes|Vision|Detection|Distance|Senses,0
+Superpowers,Energy Absorption,Energy|Defence|Power|Attacks|Storage,0
+Minecraft,Spider,Mob|Hostile|Night|Climbing|Cave,0
+Minecraft,Enderman,Mob|Hostile|Teleport|Tall|Neutral,0
+Minecraft,Endermite,Mob|Hostile|Tiny|Teleport|Pest,0
+Minecraft,Pig,Mob|Passive|Farm|Food|Rideable,0
+Minecraft,Sheep,Mob|Passive|Farm|Colorful|Resource,0
+Minecraft,Enchanted Golden Apple,Items|Food|Rare|Healing|Magic,0
+Minecraft,Bed,Blocks|Sleep|Respawn|Colorful|Crafting,0
+Minecraft,Iron Golem,Mob|Protector|Village|Neutral|Strong,0
+Minecraft,Sky Wars,Hypixel|PvP|Islands|Survival|Looting,0
+Minecraft,Concrete Powder,Blocks|Colorful|Gravity|Building|Water,0
+Minecraft,Sand,Blocks|Gravity|Desert|Building|Natural,0
+Minecraft,Terracotta,Blocks|Colorful|Building|Smelted|Decorative,0
+Minecraft,EXP Farm,Farming|Redstone|Automation|Levels|Efficiency,0
+Minecraft,End City,Structure|Loot|Purple|Towers|Exploration,0
+Minecraft,Woodland Mansion,Structure|Rare|Loot|Dangerous|Exploration,0
+Minecraft,Bedrock,Blocks|Unbreakable|Bottom|Dark|Foundation,0
+Minecraft,Murder Mystery,Hypixel|Social|Deception|Survival|Weapons,0
+Minecraft,Bridge,Hypixel|PvP|Competition|Scoring|Speed,0
+Minecraft,Bedwars,Hypixel|PvP|Teams|Resources|Building,0
+Minecraft,1v1 Classic,Hypixel|PvP|Duels|Competition|Weapons,0
+Minecraft,Build Battles,Hypixel|Creative|Building|Competition|Voting,0
+Minecraft,Dropper,Hypixel|Parkour|Falling|Skill|Speed,0
+Minecraft,The Pit,Hypixel|PvP|Progression|Chaos|Economy,0
+Minecraft,Panda,Mob|Passive|Cute|Rare|Playful,0
+Minecraft,Llama,Mob|Neutral|Transport|Domesticated|Defensive,0
+Minecraft,Turtle,Mob|Passive|Beach|Slow|Aquatic,0
+Minecraft,Dolphin,Mob|Passive|Aquatic|Friendly|Fast,0
+Minecraft,Pufferfish,Mob|Aquatic|Defensive|Toxic|Ingredient,0
+Minecraft,Bee,Mob|Passive|Flying|Farming|Neutral,0
+Minecraft,Fox,Mob|Passive|Forest|Sneaky|Nocturnal,0
+Minecraft,Wolf,Mob|Neutral|Tameable|Loyal|Forest,0
+Minecraft,Cow,Mob|Passive|Farm|Food|Resource,0
+Minecraft,Mooshroom,Mob|Passive|Rare|Farm|Fungus,0
+Minecraft,Blaze,Mob|Hostile|Flying|Fiery|Ranged,0
+Minecraft,Phantom,Mob|Hostile|Flying|Night|Undead,0
+Minecraft,Snow Golem,Mob|Passive|Winter|Helper|Constructed,0
+Minecraft,Silverfish,Mob|Hostile|Tiny|Pest|Hidden,0
+Minecraft,Shulker,Mob|Hostile|Ranged|Floating|Storage,0
+Minecraft,Magma Cube,Mob|Hostile|Bouncing|Fiery|Splitting,0
+Minecraft,Slime,Mob|Hostile|Bouncing|Splitting|Swamp,0
+Minecraft,Frog,Mob|Passive|Swamp|Hopping|Aquatic,0
+Minecraft,Chicken,Mob|Passive|Farm|Food|Feathered,0
+Minecraft,Armadillo,Mob|Passive|Armored|Savanna|Defensive,0
+Minecraft,Rabbit,Mob|Passive|Hopping|Fast|Fluffy,0
+Minecraft,Cat,Mob|Passive|Tameable|Village|Pet,0
+Minecraft,Ocelot,Mob|Passive|Jungle|Wild|Shy,0
+Minecraft,Horse,Mob|Passive|Transport|Tameable|Fast,0
+Minecraft,Donkey,Mob|Passive|Transport|Storage|Farm,0
+Minecraft,Polar Bear,Mob|Neutral|Cold|Strong|Protective,0
+Minecraft,Villager,Mob|Passive|Trading|Village|Profession,0
+Minecraft,Evoker,Mob|Hostile|Magic|Raid|Summoner,0
+Minecraft,Parrot,Mob|Passive|Colorful|Tameable|Flying,0
+Minecraft,Creeper,Mob|Hostile|Explosive|Green|Stealthy,0
+Minecraft,Husk,Mob|Hostile|Undead|Desert|Variant,0
+Minecraft,Piglin Brute,Mob|Hostile|Strong|Hellish|Guard,0
+Minecraft,Piglin,Mob|Neutral|Trading|Gold|Hellish,0
+Minecraft,Hoglin,Mob|Hostile|Beast|Hellish|Food,0
+Minecraft,Zombie Pigmen,Mob|Neutral|Undead|Gold|Hellish,0
+Minecraft,Strider,Mob|Passive|Lava|Rideable|Hellish,0
+Minecraft,Copper Golem,Mob|Passive|Helper|Constructed|Sorting,0
+Minecraft,Ravager,Mob|Hostile|Raid|Strong|Beast,0
+Minecraft,Creaking,Mob|Hostile|Spooky|Stealthy|Heart,0
+Minecraft,Warden,Mob|Hostile|Strong|Dark|Dangerous,0
+Minecraft,Sniffer,Mob|Passive|Ancient|Farming|Rare,0
+Minecraft,Camel,Mob|Passive|Desert|Transport|Tall,0
+Minecraft,Wither,Mob|Hostile|Boss|Undead|Constructed,0
+Minecraft,Ender Dragon,Mob|Hostile|Boss|Flying|Final,0
+Minecraft,Allay,Mob|Passive|Flying|Helper|Music,0
+Minecraft,Bat,Mob|Passive|Flying|Cave|Night,0
+Minecraft,Axolotl,Mob|Passive|Aquatic|Cute|Helper,0
+Minecraft,Fish,Mob|Passive|Aquatic|Food|Schooling,0
+Minecraft,Squid,Mob|Passive|Aquatic|Ink|Slow,0
+Minecraft,Nautilus,Mob|Aquatic|Shell|Ancient|Transport,0
+Minecraft,Ghast,Mob|Hostile|Flying|Ranged|Hellish,0
+Minecraft,Happy Ghast,Mob|Passive|Flying|Transport|Friendly,0
+Minecraft,Guardian,Mob|Hostile|Aquatic|Ranged|Structure,0
+Minecraft,Elder Guardian,Mob|Hostile|Aquatic|Boss|Ancient,0
+Minecraft,Arcade Games,Hypixel|Variety|Party|Casual|Minigames,0
+Minecraft,Hypixel Zombies,Hypixel|Survival|Waves|Teamwork|Co-op,0
+Minecraft,Mega Walls,Hypixel|PvP|Teams|Classes|Building,0
+Minecraft,Blitz,Hypixel|PvP|Survival|Kits|Looting,0
+Minecraft,Ancient City,Structure|Dark|Loot|Dangerous|Deep,0
+Minecraft,Shipwreck,Structure|Ocean|Loot|Treasure|Exploration,0
+Minecraft,Stronghold,Structure|Underground|Rare|Maze|Exploration,0
+Minecraft,Mineshaft,Structure|Underground|Mining|Abandoned|Loot,0
+Minecraft,Desert Temple,Structure|Hot|Trap|Loot|Exploration,0
+Minecraft,Igloo,Structure|Cold|Hidden|Small|Basement,0
+Minecraft,Jungle Temple,Structure|Trap|Puzzle|Loot|Exploration,0
+Minecraft,Ruined Portal,Structure|Loot|Broken|Common|Gateway,0
+Minecraft,Ocean Monument,Structure|Aquatic|Dangerous|Loot|Treasure,0
+Minecraft,Nether Fortress,Structure|Hellish|Dangerous|Loot|Bridges,0
+Minecraft,Bastion,Structure|Hellish|Loot|Gold|Dangerous,0
+Minecraft,Diamonds,Items|Valuable|Mining|Gem|Rare,0
+Minecraft,Mace,Items|Weapon|Melee|Powerful|Falling,0
+Minecraft,Diamond Sword,Items|Weapon|Melee|Valuable|Strong,0
+Minecraft,Trident,Items|Weapon|Ranged|Ocean|Rare,0
+Minecraft,Bow,Items|Weapon|Ranged|Ammo|Common,0
+Minecraft,Elytra,Items|Flying|Rare|Transport|Wearable,0
+Minecraft,Lapis Lazuli,Items|Blue|Mining|Gem|Magic,0
+Minecraft,Turtle Helmet,Items|Armor|Aquatic|Wearable|Breathing,0
+Minecraft,Emerald Armor,Items|Armor|Valuable|Wearable|Green,1
+Minecraft,Shield,Items|Defense|Blocking|Equipment|Combat,0
+Minecraft,Flint and Steel,Items|Tool|Fire|Utility|Common,0
+Minecraft,Wind Charges,Items|Throwable|Launching|Movement|Combat,0
+Minecraft,Sandstone,Blocks|Building|Natural|Beach|Decorative,0
+Minecraft,Grass,Blocks|Natural|Green|Surface|Spreading,0
+Minecraft,Cobblestone,Blocks|Building|Common|Mining|Gray,0
+Minecraft,Redstone,Items|Circuits|Mining|Red|Technical,0
+Minecraft,Spear,Items|Weapon|Melee|Reach|Combat,0
+Minecraft,Sugar Cane,Crops|Plants|Farming|Water|Resource,0
+Minecraft,Carrot,Crops|Food|Farming|Orange|Bait,0
+Minecraft,Melon,Crops|Food|Farming|Fruit|Slices,0
+Minecraft,Pumpkin,Crops|Blocks|Farming|Orange|Decorative,0
+Minecraft,Potato,Crops|Food|Farming|Underground|Poisonous,0
+Minecraft,Mushrooms,Plants|Food|Dark|Cave|Spreading,0
+Minecraft,Nether Wart,Crops|Farming|Brewing|Hellish|Plants,0
+Anime,Light Yagami (Death Note),Intelligent|Crazy|Aura|Ambitious|Complex,0
+Anime,L (Death Note),Intelligent|Detective|Justice|Aura|Complex,0
+Anime,Misa (Death Note),Lover|White|Devoted|Model|Crazy,0
+Anime,Gojo (Jujutsu Kaisen),Divine|Crazy|Sorcerer|Aura|Complex,0
+Anime,Yuji (Jujutsu Kaisen),Aura|Fighting|Curses|Kind|Sorcerer,0
+Anime,Sukuna (Jujutsu Kaisen),Curses|Powerful|King|Aura|Crazy,0
+Anime,Geto (Jujutsu Kaisen),Black|Sorcerer|Curses|Divine|Complex,0
+Anime,Nobara (Jujutsu Kaisen),Orange|Hammer|Fighting|Confident|Sorcerer,0
+Anime,Megumi (Jujutsu Kaisen),Black|Complex|Crazy|Serious|Sorcerer,0
+Anime,Mahoraga (Jujutsu Kaisen),Aura|King|White|Curses|Divine,0
+Anime,Yuta (Jujutsu Kaisen),Black|Curses|Katana|Kind|Sorcerer,0
+Anime,Ayanokoji (Classroom of the Elite),Intelligent|Complex|Manipulative|Strategic|Aura,0
+Anime,Eren (Attack on Titan),Aura|Divine|Complex|Justice|Determined,0
+Anime,Mikasa (Attack on Titan),Aura|Black|Fighting|Complex|Soldier,0
+Anime,Armin (Attack on Titan),Blonde|Strategic|Intelligent|Titan|Friendship,0
+Anime,Levi (Attack on Titan),Aura|Divine|Blades|Soldier|Strong,1
+Anime,Captain Erwin (Attack on Titan),Commander|Blonde|Strategic|Captain|Smart,0
+Anime,Hange (Attack on Titan),Glasses|Crazy|Titans|Curious|Captain,1
+Anime,Connie (Attack on Titan),Short|Soldier|Funny|Loyal|Friendship,0
+Anime,Sasha (Attack on Titan),Brown|Food|Bow|Funny|Soldier,0
+Anime,Reiner (Attack on Titan),Armored|Blonde|Complex|Soldier|Conflicted,0
+Anime,Luffy (One Piece),Pirate|Straw Hat|Complex|Aura|Captain,0
+Anime,Nami (One Piece),Orange|Navigator|Money|Weather|Pirate,0
+Anime,Zoro (One Piece),Green|Swords|Three|Strong|Pirate,0
+Anime,Usopp (One Piece),Sniper|Long Nose|Brave|Liar|Pirate,0
+Anime,Sanji (One Piece),Blonde|Flames|Kicks|Love|Pirate,0
+Anime,Chopper (One Piece),Reindeer|Doctor|Blue|Cute|Rumble,1
+Anime,Nico Robin (One Piece),Archaeology|Books|Dark|History|Pirate,0
+Anime,Shanks (One Piece),Red|Pirate|Haki|Straw Hat|Emperor,0
+Anime,Sung Jinwoo (Solo Leveling),Complex|Complex|Complex|Complex|Complex,0
+Anime,Frieren (Frieren: Beyond Journey's End),Aura|Magic|Ancient|Silver|Complex,0
+Anime,Fern (Frieren: Beyond Journey's End),Purple|Mage|Magic|Apprentice|Calm,1
+Anime,Stark (Frieren: Beyond Journey's End),Warrior|Coward|Red|Brave|Apprentice,0
+Anime,Himmel (Frieren: Beyond Journey's End),Hero|Blue|Sword|Legend|Kind,0
+Anime,Nino (The Quintessential Quintuplets),Sisters|Pink|Aura|Cooking|Ribbon,0
+Anime,Yotsuba (The Quintessential Quintuplets),Sisters|Orange|Energetic|Aura|Bow,0
+Anime,Itsuki (The Quintessential Quintuplets),Sisters|Red|Studious|Aura|Stars,1
+Anime,Miku (The Quintessential Quintuplets),Sisters|Purple|Quiet|Worst|Aura,1
+Anime,Ichika (The Quintessential Quintuplets),Sisters|Pink|Aura|Mature|Responsible,0
+Anime,Futaro (The Quintessential Quintuplets),Boring|Student|Intelligent|Studious|Aura,0
+Anime,Goku (Dragon Ball),Aura|Orange|Martial Arts|Aura|Aura,0
+Anime,Lowtiergod (All of Fiction),Aura|King|Complex|Oil Painting|Powerful,0
+Anime,Vegeta (Dragon Ball),Aura|Blue|Prince|Pride|Rival,0
+Anime,Beerus (Dragon Ball),Destruction|Purple|Aura|Cat|Complex,0
+Anime,Gohan (Dragon Ball),Aura|Scholar|Hybrid|Potential|Masenko,0
+Anime,Piccolo (Dragon Ball),|Green|Warrior|Regeneration|Mentor,1
+Anime,Krillin (Dragon Ball),Human|Martial Arts|Bald|Short|Aura,0
+Anime,Saitama (One-Punch Man),Bald|Hero|Martial Arts|Powerful|Aura,0
+Anime,Genos (One-Punch Man),Complex|Blonde|Hero|Flames|Loyal,0
+Anime,Garou (One-Punch Man),Martial Arts|Hunter|Monster|Rival|Red,0
+Anime,King (One-Punch Man),Hero|Reputation|Aura|King|Coward,0
+Crimes,Theft,Property|Unauthorised|Possession|Individual|Intent,0
+Crimes,Robbery,Property|Threat|Money|Confrontation|Force,0
+Crimes,Burglary,Property|Building|Entry|Unauthorised|Night,0
+Crimes,Fraud,Deception|Money|Information|Financial|Victim,1
+Crimes,Arson,Fire|Property|Damage|Investigation|Intent,0
+Crimes,Assault,Physical|Violence|Person|Conflict|Harm,1
+Crimes,Vandalism,Property|Damage|Public|Destruction|Graffiti,0
+Crimes,Shoplifting,Store|Property|Unpaid|Retail|Theft,0
+Crimes,Trespassing,Property|Entry|Land|Unauthorised|Warning,0
+Crimes,Identity Theft,Personal|Information|Money|Online|Impersonation,0
+Crimes,Extortion,Threat|Money|Coercion|Demand|Victim,1
+Crimes,Bribery,Money|Influence|Official|Favour|Corruption,0
+Crimes,Money Laundering,Money|Financial|Transactions|Concealment|Illegal,0
+Crimes,Perjury,Court|Witness|Statement|False|Legal,0
+Crimes,Embezzlement,Money|Workplace|Trust|Financial|Employee,0
+Crimes,Blackmail,Threat|Secret|Information|Money|Coercion,0
+Crimes,Counterfeiting,Money|Forgery|Documents|Imitation|Financial,1
+Crimes,Kidnapping,Person|Confinement|Movement|Threat|Ransom,0
+Crimes,Stalking,Following|Contact|Unwanted|Person|Harassment,1
+Crimes,Piracy,Copyright|Media|Online|Distribution|Unauthorised,0
+Hypixel Skyblock,Hyperion,Weapon|Dungeon|Magic|Expensive|Endgame,0
+Hypixel Skyblock,Necron,Armour|Dungeon|Wither|Powerful|Endgame,0
+Hypixel Skyblock,Terminator,Bow|Combat|Ranged|Expensive|Endgame,0
+Hypixel Skyblock,Juju Shortbow,Bow|Combat|Ranged|Popular|Progression,0
+Hypixel Skyblock,Superior Dragon,Armour|Dragon|End|Strength|Expensive,0
+Hypixel Skyblock,Young Dragon Armour,Armour|Dragon|End|Speed|Accessible,0
+Hypixel Skyblock,Shadow Assassin Armour,Armour|Dungeon|Stealth|Damage|Progression,0
+Hypixel Skyblock,Livid Dagger,Weapon|Dungeon|Critical|Speed|Progression,0
+Hypixel Skyblock,Aspect of the Dragons,Sword|Dragon|End|Strength|Classic,0
+Hypixel Skyblock,Giant's Sword,Weapon|Dungeon|Heavy|Burst|Expensive,0
+Hypixel Skyblock,Ender Dragon,Boss|End|Flying|Pet|Rare,1
+Hypixel Skyblock,Zealot,Mob|End|Farming|Summoning|Obsidian,0
+Hypixel Skyblock,Mithril,Ore|Mining|Blue|Forging|Resource,0
+Hypixel Skyblock,Glacite,Ore|Mining|Cold|Caverns|Resource,0
+Hypixel Skyblock,Divan Armour,Armour|Mining|Gemstones|Powder|Expensive,0
+Hypixel Skyblock,Crimson Armour,Armour|Combat|Island|Kuudra|Expensive,1
+Hypixel Skyblock,Kuudra,Boss|Island|Tentacles|Party|Endgame,1
+Hypixel Skyblock,Dark Auction,Auction|Coins|Midnight|NPC|Exclusive,0
+Hypixel Skyblock,Booster Cookie,Consumable|Buff|Bits|Duration|Economy,0
+Hypixel Skyblock,Trap Room,Room|Dungeon|Parkour|Damage|Secrets,0
+Hypixel Skyblock,Puzzle Room,Room|Dungeon|Mechanics|Teamwork|Secrets,0
+Hypixel Skyblock,Revenant Horror,Slayer|Combat|Undead|Grind|Progression,0
+Hypixel Skyblock,Tarantula Broodfather,Slayer|Combat|Webs|Grind|Progression,0
+Hypixel Skyblock,Sven Packmaster,Slayer|Combat|Pack|Grind|Progression,0
+Hypixel Skyblock,Voidgloom Seraph,Slayer|Combat|End|Teleportation|Endgame,0
+Hypixel Skyblock,Inferno Demonlord,Slayer|Combat|Heat|Blaze|Endgame,0
+Hypixel Skyblock,Rift,Dimension|Alternate|Time|Quests|Exploration,0
+Hypixel Skyblock,Attribute Shards,Upgrade|Equipment|Effects|Trading|Progression,0
+Friend Group,Zach,Rapist|Athletic|White|Spec|Rivals,0
+Friend Group,Ben Tran,Twink|Not White|Spec|Valorant,0
+Friend Group,Jaguado,Not White|Spec,0
+Friend Group,Josh D,Fat|White|Spec|Skyblock|Rivals,0
+Friend Group,Max Kelly,Twink|Athletic|White|Skyblock,0
+Friend Group,Sam,Twink|White|Rivals,0
+Friend Group,Massimo,Twink|White|Short|Angry,0
+Friend Group,Eric,Athletic|Not White|Skyblock|Valorant|Rivals,0
+Friend Group,Aston,Rapist|Not White|Angry,1
+Friend Group,Harry,Fat|White|Angry,0
+Friend Group,Nick,White|Short|Angry,0
+Friend Group,Max Wells,Fat|White,0
+Friend Group,Kosta,Rapist|White|Angry,0
+Friend Group,Anthony Ngo,Rapist|Not White|Skyblock|Angry,0
+Friend Group,Anthony F,Fat|Rapist|Not White,0
+Friend Group,Sean,Twink|Not White|Spec|Short,1
+Friend Group,Jack Brown,Twink|White|Short|Skyblock,1
+Friend Group,Alex Venus,Athletic|White,1
+Friend Group,Max Bodnar,Fat|White|Rivals,0
+Friend Group,Josh Ferdinands,Not White|Athletic,1
+Friend Group,Gary Lee,Not White|Rapist|Valorant|Rivals,0
+Friend Group,Imran,Not White|Skyblock|Valorant,0
+Friend Group,Oscar Rodwell,White|Skyblock|Rivals,0
+Friend Group,Sky Chen,Not White|Rapist|Valorant|Rivals,0
+Friend Group,Oscar Sutherland,White|Skyblock,0
+Friend Group,Zak Mallen,Rapist|White|Valorant|Rivals|Angry,0
